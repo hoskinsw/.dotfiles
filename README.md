@@ -4,3 +4,5 @@ These are my dotfile config files
 These are my custom configs for nano
 ## .bashrc
 These are my custom configs for bash
+## Test Header
+Test Text
